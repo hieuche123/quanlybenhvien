@@ -1,3 +1,6 @@
+admin: levanhieu12112002@gmail.com
+pass: 123456
+
 1. Yêu cầu chức năng
 -	Đa ngôn ngữ: tiếng Anh, tiếng Việt
 -	Xem trang chủ màn hình chính: gồm có các thông tin về tài khoản của người dùng, thông tin các bệnh viện, thông tin các bác sĩ, thông tin các chuyên khoa khám bệnh.
