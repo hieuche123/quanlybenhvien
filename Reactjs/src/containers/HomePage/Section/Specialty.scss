@@ -1,0 +1,35 @@
+// .specialty-child {
+//   cursor: pointer;
+//   .specialty-name {
+//     padding: 10px 0;
+//     &:hover {
+//       color: #45c3d2;
+//     }
+//   }
+// }
+
+.specialty-name {
+  &:hover {
+    color: #45c3d2;
+  }
+}
+@media (max-width: 768px) {
+  .section-share section-specialty {
+    .section-container {
+      margin: 0 10px;
+      display: flex;
+      flex-direction: column;
+    }
+  }
+  
+  }
+@media (max-width: 480px) {
+.section-share section-specialty {
+  .section-container {
+    margin: 0 10px;
+    display: flex;
+    flex-direction: column;
+  }
+}
+
+}

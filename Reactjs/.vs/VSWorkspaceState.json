@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\containers",
+    "\\src\\containers\\Patient",
+    "\\src\\containers\\Patient\\Clinic",
+    "\\src\\containers\\Profile",
+    "\\src\\services",
+    "\\src\\store",
+    "\\src\\store\\actions",
+    "\\src\\store\\reducers"
+  ],
+  "SelectedNode": "\\src\\store\\reducers\\adminReducer.js",
+  "PreviewInSolutionExplorer": false
+}
